@@ -2,13 +2,13 @@
 
 importer="Aseprite Sprite2D Import"
 type="PackedScene"
-uid="uid://bckqueah4v40k"
-path="res://.godot/imported/Boat.aseprite-82924e10745dd8ae76b8a5b4b17b4125.scn"
+uid="uid://mxcsekkjjire"
+path="res://.godot/imported/Character.aseprite-12ccd4f4eaa01df80ba5c371e8cf8593.scn"
 
 [deps]
 
-source_file="res://Boat.aseprite"
-dest_files=["res://.godot/imported/Boat.aseprite-82924e10745dd8ae76b8a5b4b17b4125.scn"]
+source_file="res://Character.aseprite"
+dest_files=["res://.godot/imported/Character.aseprite-12ccd4f4eaa01df80ba5c371e8cf8593.scn"]
 
 [params]
 
